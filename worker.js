@@ -12,7 +12,7 @@ export default {
 
 <meta name="twitter:card" content="summary_large_image">
 
-<meta name="theme-color" content="#${params.get("color")}">
+<meta name="theme-color" content="${params.get("color")}">
 <meta http-equiv="refresh" content="0;URL=/make>`;
         }
         try {
